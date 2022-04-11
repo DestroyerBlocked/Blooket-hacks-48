@@ -3,11 +3,11 @@ These are the blooket hacks
 
 
 
-so yeah
+so the script down below is the add tokens hack
 
 
 
-Addtokens.js
+
 javascript:function _0x54de() {
     var _0x51bd14 = [
         'from\x20schoo',
