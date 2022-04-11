@@ -20,3 +20,7 @@ HOW TO USE(for people who want to get banned)
 
 First copy the code then go to market.Crlt shift i and paste in the code.
 Hit enter and the cheat will activate.HAVE FUN.
+
+
+
+AND ALSO PLEASE DONT TYPE javascript: IN THE BOOKMARK IF NOT THE CHEAT WONT ACTIVATE BECAUSE I ALREADY PUT javascript: IN THE SCRIPT
