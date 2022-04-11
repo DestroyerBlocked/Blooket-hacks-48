@@ -26,3 +26,6 @@ AND ALSO PLEASE DONT TYPE javascript: IN THE BOOKMARK IF NOT THE CHEAT WONT ACTI
 
 
 but if you want the all blooks perm you need to inspect so lol.
+
+
+cool scripts:https://github.com/shenkeYT/blooket-hack
