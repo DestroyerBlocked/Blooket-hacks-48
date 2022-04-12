@@ -25,7 +25,7 @@ Hit enter and the cheat will activate.HAVE FUN.
 AND ALSO PLEASE DONT TYPE javascript: IN THE BOOKMARK IF NOT THE CHEAT WONT ACTIVATE BECAUSE I ALREADY PUT javascript: IN THE SCRIPT
 
 
-but if you want the all blooks perm you need to inspect so lol.
+BUT the bookmarklet method only works for addtokens so the rest you need to do inspect.
 
 
 cool scripts:https://github.com/shenkeYT/blooket-hack
