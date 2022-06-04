@@ -26,3 +26,7 @@ https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Add%20Tokens click 
 
 https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Bypass%20Random%20Names
 
+# Get All Answers correct 
+
+https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Get%20All%20Answers%20Correct
+
