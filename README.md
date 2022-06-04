@@ -22,3 +22,7 @@ The original Blooket hack!
 
 https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Add%20Tokens click this and hit ctrl+a
 
+# Bypass Random  Names
+
+https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Bypass%20Random%20Names
+
