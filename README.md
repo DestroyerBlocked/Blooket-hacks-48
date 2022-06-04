@@ -34,3 +34,7 @@ https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Get%20All%20Answers
 
 https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Get%20All%20Blooks%20In%20Game
 
+# Sell Dupe Blooks
+
+https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Sell%20Dupe%20Blooks
+
