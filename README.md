@@ -30,3 +30,7 @@ https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Bypass%20Random%20N
 
 https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Get%20All%20Answers%20Correct
 
+# Get All Blooks In Game
+
+https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Get%20All%20Blooks%20In%20Game
+
