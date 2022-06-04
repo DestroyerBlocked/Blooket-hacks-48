@@ -38,3 +38,7 @@ https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Get%20All%20Blooks%
 
 https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Sell%20Dupe%20Blooks
 
+# Spam Open Boxes
+
+https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Spam%20Open%20Boxes
+
