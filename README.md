@@ -22,10 +22,6 @@ The original Blooket hack!
 
 https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Add%20Tokens click this and hit ctrl+a
 
-# Bypass Random  Names
-
-https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Bypass%20Random%20Names
-
 # Get All Answers correct 
 
 https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Get%20All%20Answers%20Correct
@@ -42,7 +38,5 @@ https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Sell%20Dupe%20Blook
 
 https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Spam%20Open%20Boxes
 
-# Unlock All Blooks Perm
 
-https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Unlock%20All%20Blooks%20Perm
 
