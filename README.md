@@ -39,7 +39,7 @@ https://streamable.com/t4u7i7
 
 Mobile (how to use)
 
-https://drive.google.com/file/d/1HX4Z4JHk9A_Et5oKd21ZiBpq7BzKG5sK/view?usp=sharing
+https://drive.google.com/file/d/1_7pAwdzuQeS0gi2N7jac5wNRY3h8zu9c/view?usp=sharing
 
 
 
