@@ -33,4 +33,13 @@ https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Sell%20Dupe%20Blook
 https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Spam%20Open%20Boxes
 
 
+Laptop (how to use)
+
+https://streamable.com/t4u7i7
+
+Mobile (how to use)
+
+
+
+
 
