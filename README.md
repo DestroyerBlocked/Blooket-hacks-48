@@ -4,7 +4,7 @@ README.md
 
 # addtokens.js
 
-https://github.com/JaydenTD500/Blooket-hacks/raw/main/Global/Add%20Tokens click this and hit ctrl+a
+https://raw.githubusercontent.com/JaydenTD500/Blooket-hacks-48/main/Global/Add%20Tokens click this and hit ctrl+a
 
 # Get All Answers correct 
 
