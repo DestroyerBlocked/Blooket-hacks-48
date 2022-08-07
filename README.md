@@ -26,5 +26,8 @@ https://github.com/JaydenTD500/Blooket-hacks-48/raw/main/Global/Spam%20Open%20Bo
 
 https://raw.githubusercontent.com/JaydenTD500/Blooket-hacks-48/main/GUI
 
+# How to use
+https://github.com/JaydenTD500/Blooket-hacks-48/blob/main/How%20to%20use
+
 
 
