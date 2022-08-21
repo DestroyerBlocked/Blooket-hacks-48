@@ -4,22 +4,23 @@ README.md
 
 # addTokens.js
 
-
+addTokens.js
 
 # Get All Answers correct 
 
-
+getAllAnswersCorrect.js
 
 # Get All Blooks In Game
 
-
+getAllBlooksInGame.js
 
 # Sell Dupe Blooks
 
-
+sellDupeBlooks.js
 
 # Spam Open Boxes
 
+spamOpenBoxes.js
 
 # GUI
 
