@@ -35,4 +35,4 @@ https://github.com/JaydenTD500/Blooket-hacks-48/blob/main/How%20to%20use
 
 # Why you should use this tool:
 
-Hack can't be detected by blooket. Always working. When the hacks break it usually gets fixed in about 6-8 hours. This tool is being updated so nothing breaks. Have a problem? DM me in discord.  username: Ravensocks#2577 
+Hack can't be detected by blooket. Always working. When the hacks break it usually gets fixed in about 6-8 hours. This tool is being updated so nothing breaks. Have a problem? Write it in the issues section.
