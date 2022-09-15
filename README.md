@@ -1,6 +1,6 @@
 README.md
 
-#PLEASE READ
+# PLEASE READ
 
 Every gamemode hack is now a bookmarklet so use the bookmarklet method.
 
