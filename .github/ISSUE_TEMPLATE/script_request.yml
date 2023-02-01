@@ -1,9 +1,9 @@
 name: Feature request
 description: Request a hack
-title: "🏝️ Feature Request: "
+title: " Feature Request: "
 labels: ["enhancement"]
 assignees:
-  - cph101, CrazyH2
+  - ThatOneGuy69
 body:
   - type: markdown
     attributes:
