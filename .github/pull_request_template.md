@@ -1,12 +1,31 @@
-- type: input
+name: Feature request
+description: Request a hack
+title: "🏝️ Feature Request: "
+labels: ["enhancement"]
+assignees:
+  - cph101, CrazyH2
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to request this hack!
+  - type: input
     id: contact
     attributes:
       label: Contact Details
-      description: Write your contact details
-      placeholder: e.x. email@gmail.com
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
     validations:
       required: true
-- type: input
+  - type: input
+    id: gamemode
+    attributes:
+      label: Gamemode
+      description: What gamemode are you requesting a hack for?
+      placeholder: ex. Blook Rush
+    validations:
+      required: true
+  - type: input
     id: function
     attributes:
       label: Requested function
@@ -14,9 +33,17 @@
       placeholder: That I have infinite XP
     validations:
       required: true
-- type: textarea
+  - type: textarea
     id: existingcode
     attributes:
       label: Any existing code
       description: If you know of any existing code that would help us delope this hack for you, please paste it here.
       render: JavaScript
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
