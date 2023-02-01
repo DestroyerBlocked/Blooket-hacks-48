@@ -14,7 +14,7 @@
       placeholder: That I have infinite XP
     validations:
       required: true
-      - type: textarea
+- type: textarea
     id: existingcode
     attributes:
       label: Any existing code
